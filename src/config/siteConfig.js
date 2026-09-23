@@ -17,7 +17,7 @@ export const siteConfig = {
 
   texts: {
     // Страница 1 — приглашение
-    inviteTitle: 'Зилола ❤️',
+    inviteTitle: 'Муниса❤️',
     inviteQuestion: 'Пойдёте ли вы со мной на свидание?',
     yesButton: 'Да, конечно 😍',
     noButtonStages: [
